@@ -1,6 +1,6 @@
 import React from "react";
 import "./home.css";
-import image from "./photos/695.jpg";
+import image from "./photos/Union-Street-banners.jpeg";
 import { dialogClasses } from "@mui/material";
 import Product from "./product";
 
